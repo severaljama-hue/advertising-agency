@@ -9,10 +9,10 @@
 | `robots.txt` | 크롤러 허용 정책(AI 크롤러 허용) |
 | `sitemap.xml` | 사이트맵 |
 | `PROPOSAL.md` | 3개월 실행안과 측정 지표 |
+| `proposal.pptx` | 사장 대면용 제안서 |
 
-## 배포 전 치환
-- 모든 파일의 `CANONICAL_URL`을 실제 도메인으로 바꾼다.
-- `index.html`에서 `[확인]`을 검색해 가격 단가·오픈일·대표 이력을 채우거나 문장을 뺀다.
+## 배포 전
+- 도메인 sydneyyogurtlab.com 확보 후 DNS 연결.
 - `og.jpg`(1200×630) 를 같은 폴더에 넣는다.
 
 ## 미리보기

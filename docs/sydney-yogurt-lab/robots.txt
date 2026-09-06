@@ -15,4 +15,4 @@ Allow: /
 User-agent: Yeti
 Allow: /
 
-Sitemap: https://CANONICAL_URL/sitemap.xml
+Sitemap: https://sydneyyogurtlab.com/sitemap.xml
